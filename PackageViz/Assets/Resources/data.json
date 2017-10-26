@@ -1,0 +1,49 @@
+{
+"items": [
+{
+"name": "1hello-world",
+"width": 100,
+"height": 200,
+"depth": 300,
+"rotationType": 0,
+"rotatable": true,
+"fragile": false,
+"stackable": true,
+"position": [
+100,
+100,
+0
+]
+},
+{
+"name": "2hello-world",
+"width": 200,
+"height": 100,
+"depth": 400,
+"rotationType": 0,
+"rotatable": true,
+"fragile": false,
+"stackable": true,
+"position": [
+300,
+40,
+0
+]
+},
+{
+"name": "3-world",
+"width": 50,
+"height": 100,
+"depth": 100,
+"rotationType": 0,
+"rotatable": true,
+"fragile": false,
+"stackable": true,
+"position": [
+0,
+50,
+100
+]
+}
+]
+}
